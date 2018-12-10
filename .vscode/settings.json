@@ -1,0 +1,21 @@
+{
+  "files.associations": {
+    "*.xtra": "ruby",
+    "testkey": "ruby",
+    "lamextract": "shellscript",
+    "lam64extract": "shellscript",
+    "inflate": "shellscript",
+    "run": "shellscript",
+    "start-kernel": "shellscript",
+    "__config": "cpp",
+    "__nullptr": "cpp",
+    "cstddef": "cpp",
+    "exception": "cpp",
+    "initializer_list": "cpp",
+    "new": "cpp",
+    "stdexcept": "cpp",
+    "type_traits": "cpp",
+    "typeinfo": "cpp",
+    "algorithm": "cpp"
+  }
+}
